@@ -7,15 +7,21 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Robo_Programs" Type="Folder">
+		<Item Name="ForceSensorTest.vi" Type="VI" URL="../Robo_Programs/ForceSensorTest.vi"/>
 		<Item Name="ForwardToTarget.vi" Type="VI" URL="../Robo_Programs/ForwardToTarget.vi"/>
 		<Item Name="Run2Obstacle.vi" Type="VI" URL="../Robo_Programs/Run2Obstacle.vi"/>
+		<Item Name="sub_DegreesToRadians.vi" Type="VI" URL="../Robo_Programs/sub_DegreesToRadians.vi"/>
+		<Item Name="TurnCCW2Angle.vi" Type="VI" URL="../Robo_Programs/TurnCCW2Angle.vi"/>
 		<Item Name="TurnCCW2Target.vi" Type="VI" URL="../Robo_Programs/TurnCCW2Target.vi"/>
 	</Item>
 	<Item Name="Robo_Schema" Type="Folder">
 		<Item Name="robo_schema.bin" Type="Document" URL="../robo_schema.bin"/>
 	</Item>
 	<Item Name="IntLibraryData" Type="LibraryData">
-		<Property Name="NI.LibData.ItemData" Type="Bin">&amp;A#!!!!!!!%!"!"4!!%!!"9!A!!!!!!#!!V!!Q!(4H6N:8*J9Q!71&amp;!!!1!!$&amp;2P='^M&lt;W&gt;Z2'&amp;U91!!!1!"!!!!!Q!!!!!!!!!!</Property>
+		<Property Name="NI.LibData.ItemData" Type="Bin">&amp;A#!!!!!!!%!"!"4!!%!!"9!A!!!!!!#!!V!!Q!(4H6N:8*J9Q!71&amp;!!!1!!$&amp;2P='^M&lt;W&gt;Z2'&amp;U91!!!1!"!!!!"1!!!!!!!!!!</Property>
 		<Property Name="NI.LibData.Version" Type="Str">1.0.0.0</Property>
 	</Item>
+	<Item Name="sub_EncoderToDegrees.vi" Type="VI" URL="../Robo_Programs/sub_EncoderToDegrees.vi"/>
+	<Item Name="sub_Obstacle_in_Turn.vi" Type="VI" URL="../Robo_Programs/sub_Obstacle_in_Turn.vi"/>
+	<Item Name="Untitled 2 (SubVI).vi" Type="VI" URL="../Robo_Programs/Untitled 2 (SubVI).vi"/>
 </Library>
