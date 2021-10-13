@@ -10,7 +10,6 @@
 		<Item Name="ForceSensorTest.vi" Type="VI" URL="../Robo_Programs/ForceSensorTest.vi"/>
 		<Item Name="ForwardToTarget.vi" Type="VI" URL="../Robo_Programs/ForwardToTarget.vi"/>
 		<Item Name="Run2Obstacle.vi" Type="VI" URL="../Robo_Programs/Run2Obstacle.vi"/>
-		<Item Name="sub_DegreesToRadians.vi" Type="VI" URL="../Robo_Programs/sub_DegreesToRadians.vi"/>
 		<Item Name="TurnCCW2Angle.vi" Type="VI" URL="../Robo_Programs/TurnCCW2Angle.vi"/>
 		<Item Name="TurnCCW2Target.vi" Type="VI" URL="../Robo_Programs/TurnCCW2Target.vi"/>
 	</Item>
@@ -22,6 +21,6 @@
 		<Property Name="NI.LibData.Version" Type="Str">1.0.0.0</Property>
 	</Item>
 	<Item Name="sub_EncoderToDegrees.vi" Type="VI" URL="../Robo_Programs/sub_EncoderToDegrees.vi"/>
-	<Item Name="sub_Obstacle_in_Turn.vi" Type="VI" URL="../Robo_Programs/sub_Obstacle_in_Turn.vi"/>
+	<Item Name="sub_Obstacle_in_Turn.vi" Type="VI" URL="../Sub_VIs/sub_Obstacle_in_Turn.vi"/>
 	<Item Name="Untitled 2 (SubVI).vi" Type="VI" URL="../Robo_Programs/Untitled 2 (SubVI).vi"/>
 </Library>
